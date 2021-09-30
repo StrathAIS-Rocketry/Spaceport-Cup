@@ -1,1 +1,3 @@
-Here is where all our code in matlab or anything else shall go.
+Here is where all our code in matlab or anything else shall go. Github allows for .txt code editing so you can paste your matlab code in this folder to
+share it with others and then see any changes made, also github allows version control so if you're uploading a new version of a part, create a new branch, 
+replace the file in the branch and then make a pull request to pull it into the main branch once its finalised
