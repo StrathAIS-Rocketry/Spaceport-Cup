@@ -52,6 +52,8 @@
         FD(i)=0.5*Cp*p(i)*e(i)*v(i)*v(i); % Resistant force
         g(i)=9.81; % Gravitational acceleration
         %e(i+1)=e(i)+Am/700;
+        
+        %Adjusting parachute area
         if e(i)>=Am
             e(i+1)=Am;
         else
