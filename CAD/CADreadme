@@ -16,7 +16,7 @@ Folder structure
 /CAD
  | -Electronics
  | -Fixtures
- |  | -standard bolts, nuts, washers etc
+ |  | #standard bolts, nuts, washers etc
  | -Propulsion
  |   -Motor Parts
  |   #Motor Assembly
