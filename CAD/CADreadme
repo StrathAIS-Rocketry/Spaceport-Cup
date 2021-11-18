@@ -1,3 +1,14 @@
+CAD Folder Organisation
+
+Suggested file naming format [TYPE][VERSION_NO]-[SUBGROUP]-[PART_NAME]
+TYPE = p-part , a-assembly, d-drawing
+VERSION_NO = design interation e.g. 1,2,3...
+SUBGROUP = main , elec , prop , reco , struc
+PART_NAME = e.g ogive_nose_cone_body
+
+Example:
+p1-struc-ogive_nose_cone_body.SLDPRT
+
 Folder structure
 - subfolder
 # file
@@ -24,3 +35,4 @@ Folder structure
  |
  #Full Rocket Assembly File.SDLASM
 /
+
