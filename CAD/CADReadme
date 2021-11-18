@@ -1,8 +1,0 @@
-This is where all CAD files will go, github allows version control so we don't need to fuck around with "strut v2 is missing from this assembly" stuff, 
-if you're uploading a new version of a part, create a new branch, replace the file in the branch and then make a pull request to pull it into the main 
-branch once its finalised
-
-Solidworks files are unsupported by github so you must download them in order to edit them.
-
-Github does not recognise folders unless they have something in them so to create a new folder you must create file, type the name of the folder, type "/" 
-and then the name of a file
