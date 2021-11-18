@@ -1,0 +1,26 @@
+Folder structure
+- subfolder
+# file
+
+/CAD
+ | -Electronics
+ | -Propulsion
+ |   -Motor Parts
+ |   #Motor Assembly
+ | -Recovery
+ |  | -parachutes
+ |  | -piston
+ |  | -quick link
+ |  | -tender descender
+ |   #other parts
+ |   #assemblies
+ | -Structures
+ |  | -Airframe
+ |  | -Avionics Bay
+ |  | -Payload Bay
+ |  #Airframe Assembly
+ |  #Avionics Bay Assembly
+ |  #Payload Bay Assembly
+ |
+ #Full Rocket Assembly File.SDLASM
+/
