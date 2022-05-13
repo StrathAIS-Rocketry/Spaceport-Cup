@@ -7,13 +7,13 @@ LT = 0;
 dR = d;
 dF = d;
 Xp = 0;
-CR = 268;
-CT = 60;
-S = 164;
-Lf = 194.2;
+CR = 308;
+CT = 120;
+S = 165;
+Lf = 189.9;
 R = d/2;
-XR = 208;
-XB = 2475;
+XR = 188;
+XB = 2444;
 N = 4;
 
 CNN =2;
@@ -31,3 +31,4 @@ XF = XB + (XR/3)*( (CR+2*CT)/(CR+CT) ) + (1/6)*((CR +CT)-(CR*CT/(CR+CT)) );
 %CP
 CNR = CNN+CNT+CNF;
 X = (CNN*XN+CNT*XT+CNF*XF)/(CNR);
+
